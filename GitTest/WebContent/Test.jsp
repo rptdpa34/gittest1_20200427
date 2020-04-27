@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>test.jsp</h1>
     GitTest.jsp
+<h1>test2.jsp</h1>
 </body>
 </html>
